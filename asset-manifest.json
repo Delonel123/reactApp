@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactApp/static/css/main.70ce4e18.chunk.css",
+    "main.js": "/reactApp/static/js/main.26afcf74.chunk.js",
+    "main.js.map": "/reactApp/static/js/main.26afcf74.chunk.js.map",
+    "runtime-main.js": "/reactApp/static/js/runtime-main.483621a3.js",
+    "runtime-main.js.map": "/reactApp/static/js/runtime-main.483621a3.js.map",
+    "static/js/2.f74a6e0d.chunk.js": "/reactApp/static/js/2.f74a6e0d.chunk.js",
+    "static/js/2.f74a6e0d.chunk.js.map": "/reactApp/static/js/2.f74a6e0d.chunk.js.map",
+    "static/css/3.ecde0bb9.chunk.css": "/reactApp/static/css/3.ecde0bb9.chunk.css",
+    "static/js/3.6e4a9403.chunk.js": "/reactApp/static/js/3.6e4a9403.chunk.js",
+    "static/js/3.6e4a9403.chunk.js.map": "/reactApp/static/js/3.6e4a9403.chunk.js.map",
+    "static/css/4.79b41219.chunk.css": "/reactApp/static/css/4.79b41219.chunk.css",
+    "static/js/4.87948161.chunk.js": "/reactApp/static/js/4.87948161.chunk.js",
+    "static/js/4.87948161.chunk.js.map": "/reactApp/static/js/4.87948161.chunk.js.map",
+    "static/css/5.b56adf1e.chunk.css": "/reactApp/static/css/5.b56adf1e.chunk.css",
+    "static/js/5.9ec27b49.chunk.js": "/reactApp/static/js/5.9ec27b49.chunk.js",
+    "static/js/5.9ec27b49.chunk.js.map": "/reactApp/static/js/5.9ec27b49.chunk.js.map",
+    "static/js/6.d3be7310.chunk.js": "/reactApp/static/js/6.d3be7310.chunk.js",
+    "static/js/6.d3be7310.chunk.js.map": "/reactApp/static/js/6.d3be7310.chunk.js.map",
+    "index.html": "/reactApp/index.html",
+    "static/css/3.ecde0bb9.chunk.css.map": "/reactApp/static/css/3.ecde0bb9.chunk.css.map",
+    "static/css/4.79b41219.chunk.css.map": "/reactApp/static/css/4.79b41219.chunk.css.map",
+    "static/css/5.b56adf1e.chunk.css.map": "/reactApp/static/css/5.b56adf1e.chunk.css.map",
+    "static/css/main.70ce4e18.chunk.css.map": "/reactApp/static/css/main.70ce4e18.chunk.css.map",
+    "static/js/2.f74a6e0d.chunk.js.LICENSE.txt": "/reactApp/static/js/2.f74a6e0d.chunk.js.LICENSE.txt",
+    "static/media/preloader.b60fe7b6.svg": "/reactApp/static/media/preloader.b60fe7b6.svg",
+    "static/media/user.jpg": "/reactApp/static/media/user.6d6cb0f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.483621a3.js",
+    "static/js/2.f74a6e0d.chunk.js",
+    "static/css/main.70ce4e18.chunk.css",
+    "static/js/main.26afcf74.chunk.js"
+  ]
+}

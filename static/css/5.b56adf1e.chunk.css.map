@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Users/Users.module.css"],"names":[],"mappings":"AAAA,kBACI,WAAY,CACZ,YACJ,CACA,2BACI,eACJ","file":"5.b56adf1e.chunk.css","sourcesContent":[".img{\r\n    width: 100px;\r\n    height: 100px;\r\n}\r\n.selectedPage{\r\n    font-weight: bold;\r\n}"]}
